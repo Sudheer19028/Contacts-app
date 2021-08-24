@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "e1ac33f3-fe9e-4f3f-9e0e-d03ecb9b6ea2",
+      "name": "sudheer",
+      "email": "sudheerjalli123@gmil.com"
+    },
+    {
+      "id": "dc7a0303-b771-42b2-8565-d40fce99cc93",
+      "name": "rohan",
+      "email": "rohan123@gmail.com"
+    },
+    {
+      "id": "f4721e27-cb8a-499c-bab3-73a31e733058",
+      "name": "name",
+      "email": "name"
+    }
+  ]
+}
