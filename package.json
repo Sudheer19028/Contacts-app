@@ -1,9 +1,13 @@
 {
   "name": "server-api",
+  "homepage":"https://Sudheer19028/github.io/backeendjson",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3006 -w db.json"
+    "start": "json-server -p 3006 -w db.json",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -dbuild"
+
   },
   "keywords": [],
   "author": "",
